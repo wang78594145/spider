@@ -1,0 +1,8 @@
+2019-10-31 15:54:06,748 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:162] - INFO: 开始更新代理池
+2019-10-31 15:56:37,990 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:167] - INFO: 更新完成
+2019-10-31 15:56:37,993 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:171] - INFO: 一共更新代理: 11 个,共耗时: 00:02:31 
+
+2019-10-31 17:12:13,689 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:162] - INFO: 开始更新代理池
+2019-10-31 17:14:39,799 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:167] - INFO: 更新完成
+2019-10-31 17:14:39,803 - C:\Users\admin\PycharmProjects\spider\xiechengcar3\venv\Include\xiechengcar_spider\utils\ipool_utils.py[line:171] - INFO: 一共更新代理: 16 个,共耗时: 00:02:26 
+
